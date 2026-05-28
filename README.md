@@ -1,2 +1,0 @@
-- GPG: [`523F D366 0160 B509 41DB 1F96 E4A3 193C 6CAA 375B`](https://github.com/kehiy.gpg)
-- Nostr (NIP-5): [`_@kehiy`](https://npub.world/_@kehiy.net)
